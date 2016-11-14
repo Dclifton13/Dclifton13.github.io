@@ -1,0 +1,46 @@
+body
+{
+background:url("woven.jpg");
+color:#ccffff;
+font-family:Arial;
+
+}
+h1
+{
+	text-shadow:
+	-1px -1px 0 #000,  
+    1px -1px 0 #000,
+    -1px 1px 0 #000,
+     1px 1px 0 #000;
+	font-size:45px;
+}
+h3
+{
+color:white;	
+}
+h4
+{
+	text-shadow:
+	-1px -1px 0 #000,  
+    1px -1px 0 #000,
+    -1px 1px 0 #000,
+     1px 1px 0 #000;
+color:white;	
+	
+}
+h2
+{
+	color:white;
+}
+ol
+{
+	color:white;
+}
+h2:hover
+{
+	margin-left:auto;
+	margin-right:auto;
+	padding:;
+	background-color:grey;
+	width:200px;
+}
